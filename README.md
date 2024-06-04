@@ -1,3 +1,16 @@
+https://github.com/2dust/v2rayNG/releases
+
+https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+
+https://github.com/bepass-org/oblivion/releases
+https://github.com/bepass-org/oblivion-desktop/releases
+
+https://github.com/hiddify/hiddify-next/releases
+
+
+------------------------------------------------------------------------------------------------
+https://vahid1.holms752166.workers.dev/sub
+
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
 
 https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix
