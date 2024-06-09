@@ -7,6 +7,7 @@ https://github.com/bepass-org/oblivion-desktop/releases
 
 https://github.com/hiddify/hiddify-next/releases
 
+https://rentry.co/tvcgroup
 
 ------------------------------------------------------------------------------------------------
 https://vahid1.holms752166.workers.dev/sub
