@@ -11,6 +11,7 @@ https://github.com/dyhkwong/Exclave/releases
  
 https://rentry.co/tvcgroup
 
+https://itsyebekhe.github.io/HiN-VPN/
 ------------------------------------------------------------------------------------------------
 https://vahid1.holms752166.workers.dev/sub
 
